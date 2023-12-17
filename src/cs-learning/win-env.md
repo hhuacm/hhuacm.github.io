@@ -13,11 +13,11 @@ icon: file
 
 对于新购买的电脑，建议先卸载掉预装的无用软件，如联想电脑管家、麦咖啡（联想杀毒）、联想浏览器等。
 
-如果需要重装系统，推荐使用微软原版镜像或广受赞誉的第三方镜像（例如[WindSys](https://windsys.win/)）。如果你安装的系统版本和机器自带授权不一致，可以考虑使用学校KMS服务器（可用性保持怀疑）或 [KMSpico](https://kmspico.io/)。
+如果需要重装系统，推荐使用微软原版镜像或广受赞誉的第三方镜像（例如 [WindSys](https://windsys.win/)）。如果你安装的系统版本和机器自带授权不一致，可以考虑使用学校KMS服务器（可用性保持怀疑）或 [KMSpico](https://kmspico.io/)。
 
 ## 安全软件
 
-在绝大部分情况下，系统自带的Windows Defender就已经足够保障计算机安全了。如果需要文件粉碎、弹窗拦截等功能，可以尝试一下[火绒安全软件](https://huorong.cn/)。绝大部分情况下，不推荐360、腾讯电脑管家等国内安全软件。
+在绝大部分情况下，系统自带的 Windows Defender 就已经足够保障计算机安全了。如果需要文件粉碎、弹窗拦截等功能，可以尝试一下[火绒安全软件](https://huorong.cn/)。绝大部分情况下，不推荐360、腾讯电脑管家等国内安全软件。
 
 如果你认为自己会处于较为恶劣的安全环境下（经常访问危险网站、大量使用未知来源的程序等），可以考虑购买[卡巴斯基](https://www.kaspersky.com.cn/)或 [ESET](https://www.eset.com/cn/)等知名付费安全软件。但一般来说，个人用户的计算机安全主要取决于良好的安全意识和使用习惯（不访问可疑网站、未经认证软件先放到虚拟机/沙盒中运行等），最好不要过度依赖安全软件所提供的防护能力。
 
@@ -25,7 +25,7 @@ icon: file
 
 [Google Chrome](https://www.google.com/chrome/) 或者 Microsoft Edge 均为全球最为流行的浏览器，适合绝大部分同学使用。
 
-如有需求，也可以去使用[Firefox](https://www.mozilla.org/zh-CN/firefox/)，但注意别下载到中国大陆特供版。
+如有需求，也可以去使用 [Firefox](https://www.mozilla.org/zh-CN/firefox/)，但注意别下载到中国大陆特供版。
 
 浏览器一般需要搭配各种插件和JS脚本来实现多样的功能（去广告、页面美化、网盘高速下载等），建议多研究研究。
 
@@ -33,7 +33,7 @@ icon: file
 
 ## 解压缩软件
 
-我个人推荐使用360开发的 [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)，它是国际版软件，在清爽无广告的同时，保留了合格解压缩软件所应拥有的强大功能。
+我个人推荐使用 360 开发的 [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)，它是国际版软件，在清爽无广告的同时，保留了合格解压缩软件所应拥有的强大功能。
 
 如果你对国产软件有洁癖，也可以去用 [7-zip](https://sparanoid.com/lab/7z/) 或 Bandizip（新版Bandizip免费版有广告了，请慎重考虑）。
 
@@ -45,13 +45,13 @@ icon: file
 
 ## 代码开发
 
-如果你不清晰了解自己应该用什么，那么 [VSCode](https://code.visualstudio.com/) + 插件 或 [Jetbrains](https://www.jetbrains.com/) 系列的 IDE 就足以处理开发需求了（后者可以申请学生许可证）。
+如果你不清晰了解自己应该用什么，那么 [VSCode](https://code.visualstudio.com/)+插件 或 [Jetbrains](https://www.jetbrains.com/)系列的 IDE 就足以处理开发需求了（后者可以申请学生许可证）。
 
 ## 文本编辑
 
 ### Office
 
-对于 Word/Excel/PowerPoint 等，我个人推荐使用购买电脑时自带的个人版Office。如果愿意破费，也可以去[合租家庭版Office 365](https://lizhi.shop/site/products/id/65)（一年只要100左右，还附送1T的Onedrive云盘）。
+对于 Word / Excel / PowerPoint 等，我个人推荐使用购买电脑时自带的个人版Office。如果愿意破费，也可以去[合租家庭版 Office 365](https://lizhi.shop/site/products/id/65)（一年只要100左右，还附送1T的Onedrive云盘）。
 
 如果打算使用WPS，在对最新云服务没有需求的情况下，推荐考虑一下政府/教育组织定制版本的WPS（去搜索`WPS 政府版` 即可）。
 
@@ -75,7 +75,7 @@ $\LaTeX$ 的编译环境过于沉重，因此建议各位使用在线的[Overlea
 
 ## 正版、盗版、修改版
 
-如果想要购买正版软件，可以考虑一下这几个国内的正版软件销售平台（相比于直接去官网，他们可以更方便的获取信息、统一管理、顺一些优惠券）：[数码荔枝](https://lizhi.shop/)、[软够商城](https://apsgo.com/)、[少数派-正版软件](https://sspai.com/mall)。
+如果想要购买正版软件，可以考虑一下这几个国内的正版软件销售平台（相比于直接去官网，他们可以更方便的获取信息、统一管理、顺一些优惠券）：[数码荔枝](https://lizhi.shop/)、[软购商城](https://apsgo.com/)、[少数派-正版软件](https://sspai.com/mall)。
 
 如果你出于经济原因（太贵了）或功能原因（原版广告太多/部分功能不好用）而选择了后两类的软件，请尽量去一些较为正规的软件交流社区去寻找软件包（例如[果核剥壳](https://www.ghxi.com/)和 [423Down](https://www.423down.com/)）。
 
@@ -83,9 +83,13 @@ $\LaTeX$ 的编译环境过于沉重，因此建议各位使用在线的[Overlea
 
 当你发现你无法顺畅访问 Google、Github 等境外网站时，就需要一些必要的工具来加速访问。
 
-你可以向一些类 ChatGPT 的大模型来询问这个问题，并尝试获得它的答复。当然，在 [Github](https://github.com)、[Yandex](https://yandex.com/) 等网站/搜索引擎中也可以搜索相关关键字。
+你可以向一些类 ChatGPT 的大模型来询问这个问题，并尝试获得它的答复。当然，在 [Github](https://github.com)、[Yandex](https://yandex.com/) 等网站/搜索引擎中也可以搜索相关关键字以获取想要的答案。
 
-仅仅是临时使用的话，你也可以购买一台境外云服务器（阿里云ECS“按量付费+按流量付费”，1元可以用几个小时，现在学生还可以[每年免费领300元代金券](https://university.aliyun.com/)），在上面安装好GUI和浏览器后，用它来临时访问外网。
+仅仅是临时使用的话，你也可以购买一台境外云服务器（阿里云ECS“按量付费+按流量付费”，1元可以用几个小时，现在学生还可以[每年免费领300元代金券](https://university.aliyun.com/)），在上面安装好GUI和浏览器后，用它来临时访问外网（用完记得删了，不然会一直扣费）。
+
+:::warning
+学校提供的 [VPN 服务](https://vpn.hhu.edu.cn)是用来帮助校园外的用户安全接入河海校园内网的，不是用来加速国外网站的，与我们以前接触到并理解的“VPN”的概念可能不太一样（实际上前者才是传统意义上 VPN 的正确用途）。
+:::
 
 :::caution
 * 如果需要长期使用，不要贪图免费方案
