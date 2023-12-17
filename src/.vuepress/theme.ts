@@ -59,6 +59,8 @@ export default hopeTheme({
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
 
+      hint: true,
+
       imgLazyload: true,
       imgSize: true,
       include: true,
