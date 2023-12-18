@@ -35,13 +35,13 @@ icon: file
 
 我个人推荐使用 360 开发的 [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)，它是国际版软件，在清爽无广告的同时，保留了合格解压缩软件所应拥有的强大功能。
 
-如果你对国产软件有洁癖，也可以去用 [7-zip](https://sparanoid.com/lab/7z/) 或 Bandizip（新版Bandizip免费版有广告了，请慎重考虑）。
+如果你对国产软件有洁癖，也可以去用 [7-zip](https://sparanoid.com/lab/7z/) 或 [Bandizip](#正版、盗版、修改版)（新版Bandizip免费版有广告了，请慎重考虑）。
 
 ## 多媒体播放
 
 在普通情形下，Win10/11 自带的视频播放器（例如“电影和电视”）已经很不错了。
 
-如有更多需求，推荐使用 Potplayer 或 [VLC Media Player](https://www.videolan.org/vlc/index.an.html)。
+如有更多需求，推荐使用 [Potplayer](#正版、盗版、修改版) 或 [VLC Media Player](https://www.videolan.org/vlc/index.an.html)。
 
 ## 代码开发
 
@@ -71,24 +71,24 @@ $\LaTeX$ 的编译环境过于沉重，因此建议各位使用在线的[Overlea
 
 ### 轻量记事本
 
-如有兴趣，可以试试看用 [Notepad3](https://github.com/rizonesoft/Notepad3) + 映像劫持的方式来代替系统原有的笔记本（看个人习惯）。
+如有兴趣，可以试试看用 [Notepad3](https://github.com/rizonesoft/Notepad3)+映像劫持的方式来代替系统原有的笔记本（看个人习惯）。
 
 ## 正版、盗版、修改版
 
-如果想要购买正版软件，可以考虑一下这几个国内的正版软件销售平台（相比于直接去官网，他们可以更方便的获取信息、统一管理、顺一些优惠券）：[数码荔枝](https://lizhi.shop/)、[软购商城](https://apsgo.com/)、[少数派-正版软件](https://sspai.com/mall)。
+如果想要购买正版软件，可以考虑一下这几个国内的正版软件销售平台（相比于直接去官网，他们可以更方便的获取信息、统一管理、外加顺一些优惠券）：[数码荔枝](https://lizhi.shop/)、[软购商城](https://apsgo.com/)、[少数派-正版软件](https://sspai.com/mall)。
 
-如果你出于经济原因（太贵了）或功能原因（原版广告太多/部分功能不好用）而选择了后两类的软件，请尽量去一些较为正规的软件交流社区去寻找软件包（例如[果核剥壳](https://www.ghxi.com/)和 [423Down](https://www.423down.com/)）。
+如果你出于经济原因（太贵了）或功能原因（原版广告太多/部分功能不好用）而选择了后两类的软件，请尽量去一些较为正规的软件交流社区去寻找软件包（例如[果核剥壳](https://www.ghxi.com/)和 [423Down](https://www.423down.com/)）。（例如上文中提到的 PotPlayer 和 Bandizip，他们的第三方修改版往往要比官方原版更加好用，例如去掉了无用功能和广告、添加了增强插件之类）。
 
 ## 网络加速
 
-当你发现你无法顺畅访问 Google、Github 等境外网站时，就需要一些必要的工具来加速访问。
+如果你发现你的设备无法顺畅访问 Google、Github 等境外网站时，那么就需要一些必要的工具来加速访问。
 
-你可以向一些类 ChatGPT 的大模型来询问这个问题，并尝试获得它的答复。当然，在 [Github](https://github.com)、[Yandex](https://yandex.com/) 等网站/搜索引擎中也可以搜索相关关键字以获取想要的答案。
+你可以向一些类 ChatGPT 的大模型来询问这个问题，并尝试获得它的答复。当然，在 [Github](https://github.com)、[Yandex](https://yandex.com/) 等网站/搜索引擎中也可以搜索相关关键字，以获取想要的答案。
 
 仅仅是临时使用的话，你也可以购买一台境外云服务器（阿里云ECS“按量付费+按流量付费”，1元可以用几个小时，现在学生还可以[每年免费领300元代金券](https://university.aliyun.com/)），在上面安装好GUI和浏览器后，用它来临时访问外网（用完记得删了，不然会一直扣费）。
 
 :::warning
-学校提供的 [VPN 服务](https://vpn.hhu.edu.cn)是用来帮助校园外的用户安全接入河海校园内网的，不是用来加速国外网站的，与我们以前接触到并理解的“VPN”的概念可能不太一样（实际上前者才是传统意义上 VPN 的正确用途）。
+学校提供的 [VPN 服务](https://vpn.hhu.edu.cn)是用来帮助校园外的用户安全接入河海校园内网的，不是用来加速境外网站的，这可能与我们以前接触到并理解的“VPN”的概念不太一样（实际上前者才是传统意义上 VPN 的正式用途）。
 :::
 
 :::caution
