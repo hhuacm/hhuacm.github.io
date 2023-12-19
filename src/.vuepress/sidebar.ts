@@ -13,7 +13,9 @@ export default sidebar({
   ],
   "/cs-learning/" : [
     "README",
-    "win-env"
+    "win-env",
+    "basic-knowledge",
+    "cs-course",
   ],
   "/aboutus/" : [
     "README",

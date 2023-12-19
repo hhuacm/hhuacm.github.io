@@ -8,7 +8,7 @@ export default navbar([
     link: "/beginner/",
   },
   {
-    text: "校园课程",
+    text: "校园学习",
     icon: "book",
     link: "/cs-learning/",
   },
