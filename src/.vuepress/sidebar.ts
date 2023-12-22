@@ -8,6 +8,7 @@ export default sidebar({
     "grammar",
     "algorithm-v1",
     "thinking",
+    "writeBlog",
     "algorithm-v2",
     "algorithm-v3",
   ],
