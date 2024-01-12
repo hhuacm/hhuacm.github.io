@@ -10,7 +10,7 @@ bgImageStyle:
 heroText: HHUACM队员一览
 heroFullScreen: true
 tagline:
-  这里是历届HHUACM队员。
+  这里是历届HHUACM队员（尚不完善，大量人员与奖项数据缺乏，建议大家积极协作参与）。
   <br/><br/>
   本页面仅作临时测试使用，不具备任何实际含义。
 actions:
@@ -21,6 +21,44 @@ actions:
 
 
 highlights:
+  - header: 2022级队员
+    description: 这里是2022级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 付宏磊
+        details: ICPC银牌
+
+  - header: 2021级队员
+    description: 这里是2021级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 黄兆彬
+        details: ICPC银牌
+      - title: 徐圣翔
+        details: ICPC银牌
+      - title: 陈磊
+        details: ICPC EC铜牌
+      - title: 任意
+        details: CCPC女生赛银牌，ICPC铜牌（*）
+      - title: 程诗雪
+        details: CCPC女生赛银牌，ICPC银牌
+      - title: 刘洋
+        details: ICPC银牌
+      - title: 张宇
+        details: ICPC银牌
+      - title: 吕林泽
+        details: ICPC铜牌
+
   - header: 2020级队员
     description: 这里是2020级HHUACM队员
     image: /assets/image/markdown.svg
@@ -30,58 +68,82 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 张星宇
-        details: VCode，ACM队长，NOI铜牌
-
-      - title: 陈奕涵
-        details: Forlight，ACM副队长
-
-      - title: 张时钊
-        details: Zsz，ACM副队长
-
-      - title: 余一鸣
-        details: DGJG，ICPC EC铜牌
-      - title: 仲欣晨
-        details: Hdoenaery，ICPC银牌
-      - title: 郭校廷
-        details: Gerchart，ICPC铜牌
-      - title: 张宇豪
-        details: ALizen_，ICPC银牌
+      - title: 张星宇（VCode）
+        details: 队长，NOI铜牌，ICPC+CCPC银牌
+      - title: 陈奕涵（Forlight）
+        details: 副队长，ICPC EC铜牌，CCPC银牌
+      - title: 张时钊（Zsz）
+        details: 副队长，ICPC EC铜牌，CCPC银牌
+      - title: 余一鸣（DGJG）
+        details: ICPC EC铜牌，JSCPC银牌
+      - title: 仲欣晨（Hdoenaery）
+        details: ICPC银牌，JSCPC银牌
+      - title: 郭校廷（Gerchart）
+        details: ICPC铜牌，JSCPC银牌
+      - title: 张宇豪（ALizen_）
+        details: ICPC银牌，JSCPC银牌
       - title: 卢亮琦
-        details: ICPC银牌
+        details: ICPC银牌，JSCPC银牌
       - title: 郁冰哲
-        details: ICPC EC银牌
-      - title: 许正正
-        details: Jiafeimao，CCSP银牌
+        details: ICPC EC银牌，JSCPC银牌
+      - title: 许正正（Jiafeimao）
+        details: CCSP银牌
       - title: 王银霜
         details: ICPC铜牌，CCPC女生赛银牌
       - title: 栾昊霖
-        details: ICPC铜牌
+        details: ICPC铜牌，JSCPC银牌
       - title: 刘秉鑫
+        details: ICPC铜牌，JSCPC银牌
+
+  - header: 2019级队员
+    description: 这里是2019级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 高康悦
+        details: ICPC+CCPC银牌
+      - title: 华乙岩
         details: ICPC铜牌
+      - title: 肖潇
+        details: ICPC+CCPC银牌
+
+  - header: 2018级队员
+    description: 这里是2018级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 何瑾雨（dragonBra）
+        details: 队长，ICPC+CCPC银牌
+      - title: 颜小涵
+        details: 队长，ICPC+CCPC银牌
+      - title: 占羽淳（ZHAN）
+        details: Undefined
+      - title: 王竞同（焦糖布丁）
+        details: Undefined
+      - title: 赵崇文（跑跑）
+        details: Undefined
+      - title: 蒋子俊
+        details: Undefined
+      - title: 邓伦
+        details: Undefined
+
+  - header: 2017级队员
+    description: 这里是2017级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 王克（kls）
+        details: Undefined
 ---
-**************
-## 2020级（Beta Version）
-<div class="vp-card-container">
-  <VPCard
-    title="陈奕涵"
-    desc="Forlight，ACM副队长"
-    logo="https://imagebed-cyhforlight.oss-cn-hangzhou.aliyuncs.com/img/%E5%A4%B4%E5%83%8F.jpg"
-    link="https://mister-hope.com"
-    background="rgba(21, 139, 184, 0.3)"
-  />
-  <VPCard
-    title="张星宇"
-    desc="VCode，ACM队长，NOI铜牌"
-    logo="https://cdn.luogu.com.cn/upload/usericon/50165.png"
-    link="https://mister-hope.com"
-    background="rgba(253, 230, 138, 0.15)"
-  />
-  <VPCard
-    title="余一鸣"
-    desc="DGJG，ICPC EC铜牌"
-    logo="http://q1.qlogo.cn/g?b=qq&nk=2312543879&s=160"
-    link="https://mister-hope.com"
-    background="rgba(253, 230, 138, 0.15)"
-  />
-</div>
