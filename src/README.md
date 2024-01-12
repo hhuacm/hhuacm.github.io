@@ -16,7 +16,7 @@ tagline:
   <br>
   目前本网站仅属于线上测试阶段，所有内容均为开发者随机生成，不保证真实性。
   <br/><br/>
-  Beta Version (23.12.16), Written by ForLight
+  Beta Version (2024.01.12), Written by ForLight
 actions:
   - text: 关于我们
     icon: lightbulb
