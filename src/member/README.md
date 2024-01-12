@@ -96,6 +96,10 @@ highlights:
         details: ICPC铜牌，JSCPC银牌
       - title: 刘秉鑫
         details: ICPC铜牌，JSCPC银牌
+      - title: 程鑫宇
+        details: Undefined
+      - title: 李伟嘉
+        details: Undefined
 
   - header: 2019级队员
     description: 这里是2019级HHUACM队员
