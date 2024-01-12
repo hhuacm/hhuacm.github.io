@@ -32,6 +32,8 @@ highlights:
     features:
       - title: 付宏磊
         details: ICPC银牌
+      - title: 朱庆刚
+        details: ICPC银牌
 
   - header: 2021级队员
     description: 这里是2021级HHUACM队员
@@ -122,7 +124,7 @@ highlights:
     features:
       - title: 何瑾雨（dragonBra）
         details: 队长，ICPC+CCPC银牌
-      - title: 颜小涵
+      - title: 颜小涵（Microhan）
         details: 队长，ICPC+CCPC银牌
       - title: 占羽淳（ZHAN）
         details: Undefined
