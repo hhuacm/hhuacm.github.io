@@ -87,7 +87,7 @@ highlights:
       - title: 卢亮琦
         details: ICPC银牌，JSCPC银牌
       - title: 郁冰哲
-        details: ICPC EC银牌，JSCPC银牌
+        details: ICPC EC铜牌，JSCPC银牌
       - title: 许正正（Jiafeimao）
         details: CCSP银牌
       - title: 王银霜
@@ -127,9 +127,9 @@ highlights:
       background-size: initial
     features:
       - title: 何瑾雨（dragonBra）
-        details: 队长，ICPC+CCPC银牌
+        details: 队长
       - title: 颜小涵（Microhan）
-        details: 队长，ICPC+CCPC银牌
+        details: 队长
       - title: 占羽淳（ZHAN）
         details: Undefined
       - title: 王竞同（焦糖布丁）
@@ -139,6 +139,8 @@ highlights:
       - title: 蒋子俊
         details: Undefined
       - title: 邓伦
+        details: Undefined
+      - title: 黄赞瑜
         details: Undefined
 
   - header: 2017级队员
@@ -152,4 +154,16 @@ highlights:
     features:
       - title: 王克（kls）
         details: Undefined
+
+  - header: 2015级队员
+    description: 这里是2015级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 郑涌（zyyyyy）
+        details: 队长，CCPC金牌，ICPC银牌，一代HHUOJ创建者
 ---
