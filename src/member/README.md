@@ -1,16 +1,18 @@
 ---
 home: true
 icon: home
-title: HHUACM队员一览
+title: HHUACM优秀队员一览
 heroImage: /logo.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: HHUACM队员一览
+heroText: ACM队优秀队员一览
 heroFullScreen: true
 tagline:
-  这里是历届HHUACM队员（尚不完善，大量人员与奖项数据缺乏，建议大家积极协作参与）。
+  这里是历届HHUACM优秀队员的基础信息（尚不完善，大量人员与奖项数据缺乏，建议大家积极协作参与）。
+  <br/>
+  完整名单后续会开发新系统进行记录，链接待定。
   <br/><br/>
   本页面仅作临时测试使用，不具备任何实际含义。
 actions:
@@ -51,7 +53,7 @@ highlights:
       - title: 陈磊
         details: ICPC EC铜牌
       - title: 任意
-        details: CCPC女生赛银牌，ICPC铜牌（*）
+        details: CCPC女生赛银牌，ICPC铜牌（打星）
       - title: 程诗雪
         details: CCPC女生赛银牌，ICPC银牌
       - title: 刘洋
