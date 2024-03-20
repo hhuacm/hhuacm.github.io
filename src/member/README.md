@@ -10,7 +10,7 @@ bgImageStyle:
 heroText: ACM队优秀队员一览
 heroFullScreen: true
 tagline:
-  这里是历届HHUACM优秀队员的基础信息（尚不完善，大量人员与奖项数据缺乏，建议大家积极协作参与）。
+  这里是历届HHUACM优秀获奖队员的基础信息（尚不完善，大量人员与奖项数据缺乏，建议大家积极协作参与）。
   <br/>
   完整名单后续会开发新系统进行记录，链接待定。
   <br/><br/>
@@ -23,6 +23,18 @@ actions:
 
 
 highlights:
+  - header: 2023级队员
+    description: 这里是2023级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 林珩（Hurrikale）
+        details: ICPC铜牌
+
   - header: 2022级队员
     description: 这里是2022级HHUACM队员
     image: /assets/image/markdown.svg
@@ -33,9 +45,9 @@ highlights:
       background-size: initial
     features:
       - title: 付宏磊
-        details: ICPC银牌
-      - title: 朱庆刚
-        details: ICPC银牌
+        details: ICPC银牌、CCPC铜牌
+      - title: 朱庆刚（CmdBlock）
+        details: ICPC银牌、CCPC铜牌
 
   - header: 2021级队员
     description: 这里是2021级HHUACM队员
@@ -52,7 +64,7 @@ highlights:
         details: ICPC银牌
       - title: 陈磊
         details: ICPC EC铜牌
-      - title: 任意
+      - title: 任意（Zy01）
         details: CCPC女生赛银牌，ICPC铜牌（打星）
       - title: 程诗雪
         details: CCPC女生赛银牌，ICPC银牌
@@ -61,7 +73,7 @@ highlights:
       - title: 张宇
         details: ICPC银牌
       - title: 吕林泽
-        details: ICPC铜牌
+        details: ICPC铜牌，蓝桥杯国一
 
   - header: 2020级队员
     description: 这里是2020级HHUACM队员
@@ -98,10 +110,6 @@ highlights:
         details: ICPC铜牌，JSCPC银牌
       - title: 刘秉鑫
         details: ICPC铜牌，JSCPC银牌
-      - title: 程鑫宇
-        details: Undefined
-      - title: 李伟嘉
-        details: Undefined
 
   - header: 2019级队员
     description: 这里是2019级HHUACM队员
@@ -118,6 +126,10 @@ highlights:
         details: ICPC铜牌
       - title: 肖潇
         details: ICPC+CCPC银牌
+      - title: 裴天一
+        details: TODO
+      - title: 陈语奇
+        details: TODO
 
   - header: 2018级队员
     description: 这里是2018级HHUACM队员
@@ -133,17 +145,17 @@ highlights:
       - title: 颜小涵（Microhan）
         details: 队长
       - title: 占羽淳（ZHAN）
-        details: Undefined
+        details: TODO
       - title: 王竞同（焦糖布丁）
-        details: Undefined
+        details: TODO
       - title: 赵崇文（跑跑）
-        details: Undefined
+        details: TODO
       - title: 蒋子俊
-        details: Undefined
+        details: TODO
       - title: 邓伦
-        details: Undefined
+        details: TODO
       - title: 黄赞瑜
-        details: Undefined
+        details: TODO
 
   - header: 2017级队员
     description: 这里是2017级HHUACM队员
@@ -155,7 +167,9 @@ highlights:
       background-size: initial
     features:
       - title: 王克（kls）
-        details: Undefined
+        details: TODO
+      - title: 汤明杰
+        details: TODO
 
   - header: 2015级队员
     description: 这里是2015级HHUACM队员
