@@ -27,7 +27,7 @@ actions:
     link: https://github.com/hhuacm/hhuacm.github.io/
 
 highlights:
-  - header: 开发规划
+  - header: 开发规划（VuePress-Hope自带）
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
