@@ -20,6 +20,23 @@ export default navbar([
     ],
   },
   {
+    text: "校赛、选拔",
+    icon: "book",
+    prefix: "/hhucpc-and-acmteam/",
+    children: [
+      {
+        text: "校赛信息",
+        icon: "code",
+        link: "hhucpc/",
+      },
+      {
+        text: "校队选拔",
+        icon: "book-open",
+        link: "acmteam/",
+      },
+    ],
+  },
+  {
     text: "队员一览",
     icon: "book",
     link: "/member/",

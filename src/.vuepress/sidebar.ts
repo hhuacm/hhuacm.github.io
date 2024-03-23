@@ -31,6 +31,24 @@ export default sidebar({
       ],
     },
   ],
+  "/hhucpc-and-acmteam/" : [
+    {
+      text: "校赛信息",
+      icon: "code",
+      prefix: "hhucpc/",
+      link: "hhucpc/",
+      children: [
+      ],
+    },
+    {
+      text: "校队选拔",
+      icon: "book-open",
+      prefix: "acmteam/",
+      link: "acmteam/",
+      children: [
+      ],
+    },
+  ],
   "/aboutus/" : [
     "README",
     "contactus",
