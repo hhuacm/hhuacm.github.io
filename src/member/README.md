@@ -67,7 +67,7 @@ highlights:
       - title: 任意（Zy01）
         details: CCPC女生赛银牌，ICPC铜牌（打星）
       - title: 程诗雪
-        details: CCPC女生赛银牌，ICPC银牌
+        details: CCPC女生赛银牌，ICPC铜牌
       - title: 刘洋
         details: ICPC银牌
       - title: 张宇
@@ -127,9 +127,9 @@ highlights:
       - title: 肖潇
         details: ICPC+CCPC银牌
       - title: 裴天一
-        details: TODO
+        details: ICPC银牌
       - title: 陈语奇
-        details: TODO
+        details: CCPC银牌
 
   - header: 2018级队员
     description: 这里是2018级HHUACM队员
@@ -141,19 +141,19 @@ highlights:
       background-size: initial
     features:
       - title: 何瑾雨（dragonBra）
-        details: 队长
+        details: 队长，ICPC+CCPC铜牌
       - title: 颜小涵（Microhan）
-        details: 队长
+        details: 队长，ICPC+CCPC铜牌
       - title: 占羽淳（ZHAN）
-        details: TODO
+        details: ICPC铜牌，CCPC银牌
       - title: 王竞同（焦糖布丁）
-        details: TODO
+        details: CCPC银牌
       - title: 赵崇文（跑跑）
-        details: TODO
+        details: CCPC银牌
       - title: 蒋子俊
-        details: TODO
+        details: ICPC铜牌，CCPC银牌
       - title: 邓伦
-        details: TODO
+        details: ICPC铜牌，CCPC银牌
       - title: 黄赞瑜
         details: TODO
 
@@ -168,8 +168,12 @@ highlights:
     features:
       - title: 王克（kls）
         details: TODO
-      - title: 汤明杰
-        details: TODO
+      - title: 王桢霖
+        details: ICPC+CCPC银牌
+      - title: 张宇杰
+        details: ICPC+CCPC银牌
+      - title: 樊云翔
+        details: ICPC+CCPC银牌
 
   - header: 2015级队员
     description: 这里是2015级HHUACM队员
