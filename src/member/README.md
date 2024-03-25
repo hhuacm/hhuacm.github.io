@@ -59,7 +59,7 @@ highlights:
       background-size: initial
     features:
       - title: 黄兆彬
-        details: ICPC银牌
+        details: ICPC银牌、CCPC铜牌
       - title: 徐圣翔
         details: ICPC银牌
       - title: 陈磊
@@ -69,11 +69,11 @@ highlights:
       - title: 程诗雪
         details: CCPC女生赛银牌，ICPC铜牌
       - title: 刘洋
-        details: ICPC银牌
+        details: ICPC银牌、CCPC铜牌
       - title: 张宇
         details: ICPC银牌
       - title: 吕林泽
-        details: ICPC铜牌，蓝桥杯国一
+        details: ICPC铜牌、CCPC铜牌
 
   - header: 2020级队员
     description: 这里是2020级HHUACM队员
