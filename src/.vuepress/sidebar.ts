@@ -38,6 +38,8 @@ export default sidebar({
       prefix: "hhucpc/",
       link: "hhucpc/",
       children: [
+        "basic",
+        "tech-rule"
       ],
     },
     {
