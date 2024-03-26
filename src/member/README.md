@@ -73,7 +73,7 @@ highlights:
       - title: 张宇
         details: ICPC银牌
       - title: 吕林泽
-        details: ICPC铜牌、CCPC铜牌
+        details: ICPC+CCPC铜牌
 
   - header: 2020级队员
     description: 这里是2020级HHUACM队员
@@ -123,13 +123,15 @@ highlights:
       - title: 高康悦
         details: ICPC+CCPC银牌
       - title: 华乙岩
-        details: ICPC铜牌
+        details: ICPC+CCPC铜牌
       - title: 肖潇
         details: ICPC+CCPC银牌
       - title: 裴天一
         details: ICPC银牌
       - title: 陈语奇
         details: CCPC银牌
+      - title: 沈俊儒
+        details: ICPC EC铜牌
 
   - header: 2018级队员
     description: 这里是2018级HHUACM队员
