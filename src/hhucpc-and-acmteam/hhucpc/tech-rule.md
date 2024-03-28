@@ -3,11 +3,11 @@ title: 校赛技术规范
 icon: laptop-code
 ---
 
-本文档旨在介绍校赛期间选手比赛用机与OJ服务器的相关配置。
+本文档旨在介绍校赛期间选手比赛用机与OJ服务器的相关配置信息。
 
 ## OJ服务器
 
-HHUOJ基于[HydroOJ][https://hydro.js.org]搭建，并会在校赛前一个月进行更新，与官方最新版本保持一致。
+HHUOJ基于[HydroOJ](https://hydro.js.org)搭建，并会在校赛前一个月进行更新，与官方最新版本保持一致。
 
 截至目前（2024年3月），HHUOJ支持以下语言及其对应版本：
 
@@ -19,31 +19,35 @@ HHUOJ基于[HydroOJ][https://hydro.js.org]搭建，并会在校赛前一个月�
 
 ## 选手比赛用机
 
-以下配置适用于大部分普通机房，但部分特殊机房的软件可能有所不同（更新或者更旧），我们会在当年比赛手册中进行补充说明，并提供合适的安装包的下载链接。
-
 ### 基础软件
 
-Windows 10 64bit + Chrome
+对于大部分机房机器，均安装有 Windows 10 64bit 操作系统，并配备了 Edge 和 Chrome 浏览器。
+
+如有特殊情况（例如比赛机房仅提供 Win 7 甚至国产 Linux），校赛技术组会提前告知参赛选手，并在比赛期间提供额外技术支持。
 
 ### 编程软件
 
 #### 编译器 / 解释器
 
-* TDM-GCC 10.3.0
-* Oracle JDK 1.8
-* Python 3.10 / 3.11
+* C/C++ : TDM-GCC 10.3.0
+* Java : Oracle JDK 1.8
+* Python : Python 3.10 / 3.11
 
-附：由于无法确认的原因，不保证GDB可用性。
+附1：由于无法确认的原因，不保证GDB可用性。
+
+附2：致远楼106机房已经实现了 GCC 13.2.0 + JDK21 + Python 3.11 的最新配置。
 
 #### 编辑器
 
-VSCode，并安装有 C++、Python 插件。
+VSCode，并安装有 C/C++、Python 插件。
 
 #### IDE
 
-* Dev C++ 5.11
-* IDEA Community 2023
-* PyCharm Community 2023
+* Dev C++ 5.11 (with GCC 4.9.2)
+* Jetbrains IDEA Community 2023
+* Jetbrains PyCharm Community 2023
 * Eclipse 2023
 
 Eclipse似乎自带有oepnJDK17，有需要的同学可以在安装目录下找一找。
+
+JetBarins系IDE不保证带有中文插件。
