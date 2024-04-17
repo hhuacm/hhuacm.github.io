@@ -61,7 +61,7 @@ highlights:
       - title: 黄兆彬
         details: ICPC银牌、CCPC铜牌
       - title: 徐圣翔
-        details: ICPC银牌
+        details: ICPC银牌、CCPC铜牌
       - title: 陈磊
         details: ICPC EC铜牌
       - title: 任意（Zy01）
