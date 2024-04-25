@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as o,d as c}from"./app-CLK5kWn7.js";const n={},_=c("p",null,"本栏目用来介绍河海大学ACM队（南京）的选拔流程和日常训练。",-1),s=[_];function r(a,l){return t(),o("div",null,s)}const f=e(n,[["render",r],["__file","index.html.vue"]]);export{f as default};
