@@ -48,7 +48,7 @@ export default sidebar({
       prefix: "acmteam/",
       link: "acmteam/",
       children: [
-        "daily-join"
+        "joinus"
       ],
     },
   ],
