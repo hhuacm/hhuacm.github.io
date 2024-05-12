@@ -33,7 +33,13 @@ highlights:
       background-size: initial
     features:
       - title: 林珩（Hurrikale）
-        details: ICPC铜牌
+        details: ICPC铜牌，JSCPC金牌
+      - title: 杨帆
+        details: JSCPC铜牌
+      - title: 曾国琳
+        details: JSCPC铜牌
+      - title: 金炬光
+        details: JSCPC铜牌
 
   - header: 2022级队员
     description: 这里是2022级HHUACM队员
@@ -48,6 +54,18 @@ highlights:
         details: ICPC银牌、CCPC铜牌
       - title: 朱庆刚（CmdBlock）
         details: ICPC银牌、CCPC铜牌
+      - title: 王跃然（Hanyu）
+        details: JSCPC银牌
+      - title: 王子朔
+        details: JSCPC银牌
+      - title: 钟书磊
+        details: JSCPC银牌
+      - title: 张天浩
+        details: JSCPC铜牌
+      - title: 杜泽恩
+        details: JSCPC铜牌
+      - title: 李金涛
+        details: JSCPC铜牌
 
   - header: 2021级队员
     description: 这里是2021级HHUACM队员
@@ -73,7 +91,7 @@ highlights:
       - title: 张宇
         details: ICPC银牌
       - title: 吕林泽
-        details: ICPC+CCPC铜牌
+        details: ICPC+CCPC铜牌，JSCPC银牌
 
   - header: 2020级队员
     description: 这里是2020级HHUACM队员
