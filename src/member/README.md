@@ -32,7 +32,7 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 林珩（Hurrikale）
+      - title: 林桁（Hurrikale）
         details: ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌
       - title: 杨帆
         details: JSCPC铜牌
@@ -51,7 +51,7 @@ highlights:
       background-size: initial
     features:
       - title: 付宏磊
-        details: ICPC银牌、CCPC铜牌
+        details: ICPC银牌，CCPC铜牌，JSCPC金牌
       - title: 朱庆刚（CmdBlock）
         details: ICPC银牌、CCPC铜牌
       - title: 王跃然（Hanyu）
@@ -79,9 +79,9 @@ highlights:
       background-size: initial
     features:
       - title: 黄兆彬
-        details: ICPC银牌、CCPC铜牌
+        details: ICPC银牌，CCPC铜牌
       - title: 徐圣翔
-        details: ICPC银牌、CCPC铜牌
+        details: ICPC银牌，CCPC铜牌
       - title: 陈磊
         details: ICPC EC铜牌
       - title: 任意（Zy01）
@@ -107,9 +107,9 @@ highlights:
       background-size: initial
     features:
       - title: 张星宇（VCode）
-        details: 队长，NOI铜牌，ICPC+CCPC银牌
+        details: 队长，NOI铜牌，ICPC+CCPC银牌，JSCPC金牌
       - title: 陈奕涵（Forlight）
-        details: 副队长，ICPC EC铜牌，CCPC银牌
+        details: 副队长，ICPC EC铜牌，CCPC银牌，JSCPC金牌
       - title: 张时钊（Zsz）
         details: 副队长，ICPC EC铜牌，CCPC银牌
       - title: 余一鸣（DGJG）
@@ -143,13 +143,13 @@ highlights:
       background-size: initial
     features:
       - title: 高康悦
-        details: ICPC+CCPC银牌
+        details: ICPC+CCPC银牌，JSCPC金牌
       - title: 华乙岩
         details: ICPC+CCPC铜牌
       - title: 肖潇
         details: ICPC+CCPC银牌
       - title: 裴天一
-        details: ICPC银牌
+        details: ICPC银牌，JSCPC金牌
       - title: 陈语奇
         details: CCPC银牌
       - title: 沈俊儒
