@@ -33,7 +33,7 @@ highlights:
       background-size: initial
     features:
       - title: 林珩（Hurrikale）
-        details: ICPC铜牌，JSCPC金牌
+        details: ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌
       - title: 杨帆
         details: JSCPC铜牌
       - title: 曾国琳
@@ -66,6 +66,8 @@ highlights:
         details: JSCPC铜牌
       - title: 李金涛
         details: JSCPC铜牌
+      - title: 江建渝
+        details: ICPC邀请赛金牌
 
   - header: 2021级队员
     description: 这里是2021级HHUACM队员
@@ -92,6 +94,8 @@ highlights:
         details: ICPC银牌
       - title: 吕林泽
         details: ICPC+CCPC铜牌，JSCPC银牌
+      - title: 杨家辉
+        details: ICPC邀请赛金牌
 
   - header: 2020级队员
     description: 这里是2020级HHUACM队员
