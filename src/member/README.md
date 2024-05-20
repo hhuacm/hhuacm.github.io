@@ -66,7 +66,7 @@ highlights:
         details: JSCPC铜牌
       - title: 李金涛
         details: JSCPC铜牌
-      - title: 江建渝
+      - title: 江建谕
         details: ICPC邀请赛金牌
 
   - header: 2021级队员
