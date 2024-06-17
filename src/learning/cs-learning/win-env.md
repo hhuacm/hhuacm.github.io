@@ -53,7 +53,7 @@ icon: file
 
 对于 Word / Excel / PowerPoint 等，我个人推荐使用购买电脑时自带的个人版Office。如果愿意破费，也可以去[合租家庭版 Office 365](https://lizhi.shop/site/products/id/65)（一年只要100左右，还附送1T的Onedrive云盘）。
 
-WPS标准版目前已经取消了第三方商业广告，也是一个不错的选择。我们学校目前已经购买了WPS教育版的授权（附赠不少高级功能），学生可以免费使用，详情可以浏览[校网信办](http://ms.hhu.edu.cn/help?articleid=476)。
+WPS标准版目前已经取消了第三方商业广告，也是一个不错的选择。
 
 我们学校理论上是可以 KMS 激活 Office 和 Windows 的（[网信办](https://hhic.hhu.edu.cn/)买了授权），但是效果似乎不太好。
 
