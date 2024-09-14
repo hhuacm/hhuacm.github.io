@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as n,c as o,d as r}from"./app-Ce29sI8P.js";const l={};function s(c,e){return n(),o("div",null,e[0]||(e[0]=[r("p",null,"本栏目用来为ACM队的各位同学，介绍计算机方向的各项校园课程的学习方向。",-1)]))}const d=t(l,[["render",s],["__file","index.html.vue"]]);export{d as default};
