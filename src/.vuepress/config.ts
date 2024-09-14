@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import bundler from "./bundler.js";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -9,5 +10,5 @@ export default defineUserConfig({
   description: "Here is HHUACM!",
 
   theme,
-
+  bundler,
 });
