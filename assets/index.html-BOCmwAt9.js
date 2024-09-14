@@ -1,1 +1,0 @@
-import{_ as r}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as o,d as n}from"./app-Ce29sI8P.js";const l={};function c(s,e){return t(),o("div",null,e[0]||(e[0]=[n("p",null,"本栏目用来为新入门的同学，介绍如何正确通过自学的方式来入门算法竞赛。",-1),n("p",null,"本项目被命名为“HHUACM Beginner Project”。",-1)]))}const i=r(l,[["render",c],["__file","index.html.vue"]]);export{i as default};
