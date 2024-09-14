@@ -57,9 +57,9 @@ highlights:
       background-size: initial
     features:
       - title: 付宏磊
-        details: ICPC银牌，CCPC铜牌，JSCPC金牌
+        details: 队长，ICPC银牌，CCPC铜牌，JSCPC金牌
       - title: 朱庆刚（CmdBlock）
-        details: ICPC银牌、CCPC铜牌
+        details: 副队长，ICPC银牌、CCPC铜牌
       - title: 王跃然（Hanyu）
         details: JSCPC银牌、CCPC邀请赛铜牌
       - title: 王子朔
@@ -85,7 +85,7 @@ highlights:
       background-size: initial
     features:
       - title: 黄兆彬
-        details: ICPC银牌，CCPC铜牌
+        details: 副队长，ICPC银牌，CCPC铜牌
       - title: 徐圣翔
         details: ICPC银牌，CCPC铜牌
       - title: 陈磊

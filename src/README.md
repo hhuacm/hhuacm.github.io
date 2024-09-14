@@ -12,11 +12,9 @@ heroFullScreen: true
 tagline:
   Welcome to HHUACM!
   <br/><br/>
-  本网站用于介绍河海大学ACM队概况，以及部署相关公共文档。目前本网站仅属于线上测试阶段，数据不完整，有待大家补充。
-  <br/>
-  网站目前存在无法定位解决的渲染问题，如果你点击某个页面后发现没有如预期一样渲染（例如点击进入某个文档后，页面样式仍然保持主页形态，没有正常显示侧边栏等），请停留在本页面进行刷新，即可解决该问题。
-  <br/>
-  Beta Version (2024.06.29), Written by ForLight
+  本网站用于介绍河海大学ACM队概况，并介绍校赛、校队选拔、算法学习等公共文档。
+  <br/><br/>
+  目前本网站仅属于线上测试阶段，数据不完整，有待大家补充。
 actions:
   - text: 关于我们
     icon: lightbulb
@@ -46,5 +44,5 @@ highlights:
       - title: 全部成员/奖项信息、奖项筛选等有待更新
 
 copyright: false
-footer: 基于 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 搭建 | MIT 协议，版权所有 © 2023-至今 HHUACM Team
+footer: 基于 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 搭建 | MIT 协议，版权所有 © 2023 - 至今    HHUACM Team
 ---

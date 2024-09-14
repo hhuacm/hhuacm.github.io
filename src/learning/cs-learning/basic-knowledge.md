@@ -36,7 +36,7 @@ icon: file
 * [线性代数的本质](https://www.bilibili.com/video/BV1ys411472E/)
 
   3blue1Brown出品，简要阐述了线性代数的本质特征，非常值得一看（他还有一个“微积分的本质”课程，质量也很不错）。
-  
+
   这个合集比较早，建议到本人账号里面再搜一搜“线性代数”，看看后面新增的视频
 
 * [MIT线性代数课程](https://www.bilibili.com/video/BV16Z4y1U7oU/)
