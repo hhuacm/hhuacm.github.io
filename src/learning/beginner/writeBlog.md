@@ -38,22 +38,22 @@ icon: file
 
 如果你不想折腾太多技术细节，只是单纯想要简简单单的写一篇博客，那么使用在线的博客平台就很划算。
 
-国内面向程序员的博客平台很多，例如[博客园](https://www.cnblogs.com/)，[思否SegmentFault](https://segmentfault.com/)，[稀土掘金](https://juejin.cn/)等（甚至知乎也不是不行，例如[dalao严格鸽](https://www.zhihu.com/people/yan-ge-ge-32-1)就用知乎专栏写博客）。此外，很多OJ也自带了博客功能（例如洛谷和牛客）。
+国内面向程序员的博客平台很多，例如[博客园](https://www.cnblogs.com/)，[思否 SegmentFault](https://segmentfault.com/)，[稀土掘金](https://juejin.cn/)等（甚至知乎也不是不行，例如[dalao 严格鸽](https://www.zhihu.com/people/yan-ge-ge-32-1)就用知乎专栏写博客）。此外，很多OJ也自带了博客功能（例如洛谷和牛客）。
 
 :::warning
-从身心健康角度考虑，不推荐各位使用广告过多的平台，例如大名鼎鼎的CSDN。
+从身心健康角度考虑，不推荐各位使用广告过多的平台，例如大名鼎鼎的 CSDN。
 :::
 
 ### 动态博客系统
 
 如果你对大型商业博客不太感冒，自己又拥有一台云服务器，那么自部署一个博客系统也不错。
 
-知名的博客系统有很多，例如大名鼎鼎的[Wordpress](https://wordpress.org/)、后起之秀[Typecho](https://typecho.org/)、开源建站工具[Halo](https://www.halo.run/)等，大家可以自行选一个来进行部署操作。
+知名的博客系统有很多，例如大名鼎鼎的 [Wordpress](https://wordpress.org/)、后起之秀 [Typecho](https://typecho.org/)、开源建站工具 [Halo](https://www.halo.run/)等，大家可以自行选一个来进行部署操作。
 
 ### 静态博客生成器
 
-此类博客的运行逻辑比较独特：他们将本地的Markdown文件和配置文件等“编译”为静态的Web文件（HTML、CSS、JS等），随后需要用户手动将编译结果手动上传到静态页面的部署平台上，随后大家才能够访问到它。
+此类博客的运行逻辑比较独特：他们将本地的 Markdown 文件和配置文件等“编译”为静态的 Web 文件（HTML、CSS、JS等），随后需要用户手动将编译结果手动上传到静态页面的部署平台上，随后大家才能够访问到它。
 
-考虑到Git的版本管理功能和众多Git平台提供的网页托管功能，它们往往能够配置好一套标准的工作流，让用户专心于写作，复杂的部署流程由后台的脚本来自动执行（例如本网站就是基于静态生成器[VuePress](https://v2.vuepress.vuejs.org/zh/)运行）。即使如此，该类型博客的部署还是较为繁琐的，适合有兴趣的同学尝试。
+考虑到 Git 的版本管理功能和众多 Git 平台提供的网页托管功能，它们往往能够配置好一套标准的工作流，让用户专心于写作，复杂的部署流程由后台的脚本来自动执行（例如本网站就是基于静态生成器[VuePress](https://v2.vuepress.vuejs.org/zh/)运行）。即使如此，该类型博客的部署还是较为繁琐的，适合有兴趣的同学尝试。
 
 推荐：[Hexo](https://hexo.io/index.html)、[Hugo](https://gohugo.io/)、[VuePress](https://v2.vuepress.vuejs.org/zh/)
