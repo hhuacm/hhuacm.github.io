@@ -9,13 +9,13 @@ icon: laptop-code
 
 HHUOJ基于[HydroOJ](https://hydro.js.org)搭建，并会在校赛前一个月进行更新，与官方最新版本保持一致。
 
-截至2024年3月，HHUOJ支持以下语言及其对应版本：
+截至 2024 年 9 月，HHUOJ支持以下语言及其对应版本：
 
-* C/C++：基于 GCC 11.4.0，支持 C++ 98 / 11 / 14 / 17 标准
+* C/C++：基于 GCC 13，支持 C++ 98 / 11 / 14 / 17 标准
 
-* Java：基于OpenJDK 17
+* Java：基于OpenJDK 21
 
-* Python：基于 Python 3.10
+* Python：基于 Python 3.11+
 
 ## 选手比赛用机
 
