@@ -53,7 +53,7 @@ export default sidebar({
     },
   ],
   "/aboutus/" : [
-    "README",
+    "index",
     "contactus",
     "developPage",
   ]
