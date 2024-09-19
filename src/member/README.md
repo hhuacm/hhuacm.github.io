@@ -89,9 +89,9 @@ highlights:
       - title: 徐圣翔
         details: ICPC银牌，CCPC铜牌
       - title: 陈磊
-        details: ICPC EC铜牌
+        details: ICPC EC铜牌，JSCPC银牌
       - title: 任意（Zy01）
-        details: CCPC女生赛银牌，ICPC铜牌（打星）
+        details: CCPC女生赛银牌，ICPC铜牌（打星），JSCPC铜牌
       - title: 程诗雪
         details: CCPC女生赛银牌，ICPC铜牌
       - title: 刘洋
@@ -117,7 +117,7 @@ highlights:
       - title: 陈奕涵（Forlight）
         details: 副队长，ICPC EC铜牌，CCPC银牌，JSCPC金牌
       - title: 张时钊（Zsz）
-        details: 副队长，ICPC EC铜牌，CCPC银牌
+        details: 副队长，ICPC EC铜牌，CCPC银牌，JSCPC银牌
       - title: 余一鸣（DGJG）
         details: ICPC EC铜牌，JSCPC银牌
       - title: 仲欣晨（Hdoenaery）
@@ -133,7 +133,7 @@ highlights:
       - title: 许正正（Jiafeimao）
         details: CCSP银牌
       - title: 王银霜
-        details: ICPC铜牌，CCPC女生赛银牌
+        details: ICPC铜牌，CCPC女生赛银牌，JSCPC铜牌
       - title: 栾昊霖
         details: ICPC铜牌，JSCPC银牌
       - title: 刘秉鑫
