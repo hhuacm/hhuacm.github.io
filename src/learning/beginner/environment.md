@@ -36,7 +36,7 @@ icon: file
 
 [Dev C++](https://pc.qq.com/detail/16/detail_163136.html) 几乎是所有 Win 系比赛机的必备软件，虽然日常用的不多，但还是建议在电脑上面装一个。
 
-考虑到 Dev C++ 的内部编译器版本过老，因此一般需要自行安装一个更新的编译器，以支持全新的 C++ 标准（如14/17/20）如 [TDM-GCC](https://jmeubank.github.io/tdm-gcc/) 或 [MinGW-w64](https://www.mingw-w64.org/downloads/)。
+考虑到 Dev C++ 的内部编译器版本过老，因此一般需要自行安装一个更新的编译器，以支持全新的 C++ 标准（如14/17/20）如 [TDM-GCC](https://jmeubank.github.io/tdm-gcc/) 或 [MinGW-w64](https://www.mingw-w64.org/downloads/)（新同学建议前者，因为它提供了一键安装包，不需要手动配置环境变量）。
 
 有同学会喜欢 Jetbrains 推出的 CLion，甚至微软的 VS（不是VSCode，而是完整版的Visual Studio），我个人认为它们对于算法竞赛而言有点重量级了（
 
