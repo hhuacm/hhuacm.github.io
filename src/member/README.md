@@ -33,13 +33,13 @@ highlights:
       background-size: initial
     features:
       - title: 林桁（Hurrikale）
-        details: ICPC铜牌、JSCPC金牌、ICPC邀请赛金牌、CCPC铜牌
+        details: ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌，CCPC铜牌
       - title: 杨帆
-        details: JSCPC铜牌、CCPC邀请赛银牌
+        details: JSCPC铜牌，CCPC邀请赛银牌
       - title: 曾国琳
-        details: JSCPC铜牌、CCPC邀请赛银牌
+        details: JSCPC铜牌，CCPC邀请赛银牌
       - title: 金炬光
-        details: JSCPC铜牌、CCPC邀请赛银牌
+        details: JSCPC铜牌，CCPC邀请赛银牌
       - title: 周厚望
         details: CCPC邀请赛铜牌
       - title: 王睿彬
@@ -59,19 +59,19 @@ highlights:
       - title: 付宏磊
         details: 队长，ICPC银牌，CCPC铜牌，JSCPC金牌
       - title: 朱庆刚（CmdBlock）
-        details: 副队长，ICPC银牌、CCPC铜牌
+        details: 副队长，ICPC银牌，CCPC铜牌
       - title: 王跃然（Hanyu）
-        details: JSCPC银牌、CCPC邀请赛铜牌
+        details: JSCPC银牌，CCPC邀请赛铜牌
       - title: 王子朔
-        details: JSCPC银牌、CCPC邀请赛铜牌
+        details: JSCPC银牌，CCPC邀请赛铜牌
       - title: 钟书磊
-        details: JSCPC银牌、CCPC邀请赛铜牌
+        details: JSCPC银牌，CCPC邀请赛铜牌
       - title: 张天浩
-        details: ICPC铜牌、JSCPC铜牌、CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 杜泽恩
-        details: ICPC铜牌、JSCPC铜牌、CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 李金涛
-        details: ICPC铜牌、JSCPC铜牌、CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 江建谕
         details: ICPC邀请赛金牌
 
@@ -91,17 +91,17 @@ highlights:
       - title: 陈磊
         details: ICPC EC铜牌，JSCPC银牌
       - title: 任意（Zy01）
-        details: CCPC女生赛银牌，ICPC铜牌（打星），JSCPC铜牌
+        details: CCPC女生赛银牌，，CCPC铜牌，ICPC铜牌（打星），JSCPC铜牌
       - title: 程诗雪
         details: CCPC女生赛银牌，ICPC铜牌
       - title: 刘洋
-        details: ICPC银牌、CCPC铜牌
+        details: ICPC银牌，CCPC铜牌
       - title: 张宇
         details: ICPC银牌
       - title: 吕林泽
         details: ICPC+CCPC铜牌，JSCPC银牌
       - title: 杨家辉
-        details: ICPC邀请赛金牌
+        details: ICPC邀请赛金牌，CCPC铜牌
 
   - header: 2020级队员
     description: 这里是2020级HHUACM队员
