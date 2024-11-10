@@ -33,7 +33,7 @@ highlights:
       background-size: initial
     features:
       - title: 林桁（Hurrikale）
-        details: ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌
+        details: ICPC铜牌、JSCPC金牌、ICPC邀请赛金牌、CCPC铜牌
       - title: 杨帆
         details: JSCPC铜牌、CCPC邀请赛银牌
       - title: 曾国琳
@@ -67,11 +67,11 @@ highlights:
       - title: 钟书磊
         details: JSCPC银牌、CCPC邀请赛铜牌
       - title: 张天浩
-        details: JSCPC铜牌、CCPC邀请赛银牌
+        details: ICPC铜牌、JSCPC铜牌、CCPC邀请赛银牌
       - title: 杜泽恩
-        details: JSCPC铜牌、CCPC邀请赛银牌
+        details: ICPC铜牌、JSCPC铜牌、CCPC邀请赛银牌
       - title: 李金涛
-        details: JSCPC铜牌、CCPC邀请赛银牌
+        details: ICPC铜牌、JSCPC铜牌、CCPC邀请赛银牌
       - title: 江建谕
         details: ICPC邀请赛金牌
 
