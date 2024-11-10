@@ -35,17 +35,19 @@ highlights:
       - title: 林桁（Hurrikale）
         details: ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌，CCPC铜牌
       - title: 杨帆
-        details: JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 曾国琳
-        details: JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 金炬光
-        details: JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 周厚望
         details: CCPC邀请赛铜牌
       - title: 王睿彬
         details: CCPC邀请赛铜牌
       - title: 陈培印
         details: CCPC邀请赛铜牌
+      - title: 王大儒
+        details: ICPC铜牌
 
   - header: 2022级队员
     description: 这里是2022级HHUACM队员
@@ -61,7 +63,7 @@ highlights:
       - title: 朱庆刚（CmdBlock）
         details: 副队长，ICPC银牌，CCPC铜牌
       - title: 王跃然（Hanyu）
-        details: JSCPC银牌，CCPC邀请赛铜牌
+        details: ICPC铜牌，JSCPC银牌，CCPC邀请赛铜牌
       - title: 王子朔
         details: JSCPC银牌，CCPC邀请赛铜牌
       - title: 钟书磊
@@ -73,7 +75,7 @@ highlights:
       - title: 李金涛
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 江建谕
-        details: ICPC邀请赛金牌
+        details: ICPC邀请赛金牌，ICPC区域赛铜牌
 
   - header: 2021级队员
     description: 这里是2021级HHUACM队员
@@ -91,7 +93,7 @@ highlights:
       - title: 陈磊
         details: ICPC EC铜牌，JSCPC银牌
       - title: 任意（Zy01）
-        details: CCPC女生赛银牌，，CCPC铜牌，ICPC铜牌（打星），JSCPC铜牌
+        details: CCPC女生赛银牌，CCPC区域赛铜牌，JSCPC铜牌
       - title: 程诗雪
         details: CCPC女生赛银牌，ICPC铜牌
       - title: 刘洋
