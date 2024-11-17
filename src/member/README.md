@@ -33,7 +33,7 @@ highlights:
       background-size: initial
     features:
       - title: 林桁（Hurrikale）
-        details: ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌，CCPC铜牌
+        details: CCPC金牌，ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌
       - title: 杨帆
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 曾国琳
@@ -41,7 +41,7 @@ highlights:
       - title: 金炬光
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 周厚望
-        details: CCPC邀请赛铜牌
+        details: ICPC银牌，CCPC邀请赛铜牌
       - title: 王睿彬
         details: CCPC邀请赛铜牌
       - title: 陈培印
@@ -59,11 +59,11 @@ highlights:
       background-size: initial
     features:
       - title: 付宏磊
-        details: 队长，ICPC银牌，CCPC铜牌，JSCPC金牌
+        details: 队长，ICPC银牌，CCPC金牌，JSCPC金牌
       - title: 朱庆刚（CmdBlock）
-        details: 副队长，ICPC银牌，CCPC铜牌
+        details: 副队长，ICPC银牌，CCPC金牌
       - title: 王跃然（Hanyu）
-        details: ICPC铜牌，JSCPC银牌，CCPC邀请赛铜牌
+        details: ICPC银牌，JSCPC银牌，CCPC邀请赛铜牌
       - title: 王子朔
         details: JSCPC银牌，CCPC邀请赛铜牌
       - title: 钟书磊
@@ -75,7 +75,7 @@ highlights:
       - title: 李金涛
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 江建谕
-        details: ICPC邀请赛金牌，ICPC区域赛铜牌
+        details: ICPC银牌，ICPC邀请赛金牌
 
   - header: 2021级队员
     description: 这里是2021级HHUACM队员
