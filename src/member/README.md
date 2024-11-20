@@ -74,7 +74,7 @@ highlights:
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 李金涛
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
-      - title: 江建谕
+      - title: 江建谕（remain11）
         details: ICPC银牌，ICPC邀请赛金牌
 
   - header: 2021级队员
