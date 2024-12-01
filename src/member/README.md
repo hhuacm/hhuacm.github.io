@@ -33,7 +33,7 @@ highlights:
       background-size: initial
     features:
       - title: 林桁（Hurrikale）
-        details: CCPC金牌，ICPC铜牌，JSCPC金牌，ICPC邀请赛金牌
+        details: CCPC金牌，ICPC银牌，JSCPC金牌，ICPC邀请赛金牌
       - title: 杨帆
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 曾国琳
