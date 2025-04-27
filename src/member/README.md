@@ -23,6 +23,18 @@ actions:
 
 
 highlights:
+  - header: 2024级队员
+    description: 这里是2024级HHUACM队员
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 吕广信（lgx）
+        details: ICPC邀请赛金牌
+
   - header: 2023级队员
     description: 这里是2023级HHUACM队员
     image: /assets/image/markdown.svg
@@ -41,7 +53,7 @@ highlights:
       - title: 金炬光
         details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
       - title: 周厚望
-        details: ICPC银牌，CCPC邀请赛铜牌
+        details: ICPC银牌，ICPC邀请赛金牌，CCPC邀请赛铜牌
       - title: 王睿彬
         details: CCPC邀请赛铜牌
       - title: 陈培印
