@@ -32,7 +32,7 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 吕广信（lgx）
+      - title: 吕广信（Listar）
         details: ICPC邀请赛金牌
 
   - header: 2023级队员
