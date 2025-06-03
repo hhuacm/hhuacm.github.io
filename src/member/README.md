@@ -33,7 +33,13 @@ highlights:
       background-size: initial
     features:
       - title: 吕广信（Listar）
-        details: ICPC邀请赛金牌
+        details: ICPC邀请赛金牌，JSCPC银牌
+      - title: 谭炜烨
+        details: JSCPC银牌
+      - title: 邵然
+        details: JSCPC银牌
+      - title: 顾奕诚
+        details: JSCPC银牌
 
   - header: 2023级队员
     description: 这里是2023级HHUACM队员
@@ -47,17 +53,17 @@ highlights:
       - title: 林桁（Hurrikale）
         details: CCPC金牌，ICPC银牌，JSCPC金牌，ICPC邀请赛金牌
       - title: 杨帆
-        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC金牌，CCPC邀请赛银牌
       - title: 曾国琳
-        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC银牌，CCPC邀请赛银牌
       - title: 金炬光
-        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC银牌，CCPC邀请赛银牌
       - title: 周厚望
         details: ICPC银牌，ICPC邀请赛金牌，CCPC邀请赛铜牌
       - title: 王睿彬
         details: CCPC邀请赛铜牌
       - title: 陈培印
-        details: CCPC邀请赛铜牌
+        details: CCPC邀请赛铜牌，JSCPC银牌
       - title: 王大儒
         details: ICPC铜牌
 
@@ -81,11 +87,11 @@ highlights:
       - title: 钟书磊
         details: JSCPC银牌，CCPC邀请赛铜牌
       - title: 张天浩
-        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC银牌，CCPC邀请赛银牌
       - title: 杜泽恩
-        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC银牌，CCPC邀请赛银牌
       - title: 李金涛
-        details: ICPC铜牌，JSCPC铜牌，CCPC邀请赛银牌
+        details: ICPC铜牌，JSCPC银牌，CCPC邀请赛银牌
       - title: 江建谕（remain11）
         details: ICPC银牌，ICPC邀请赛金牌
 
