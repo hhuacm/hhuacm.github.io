@@ -66,6 +66,12 @@ highlights:
         details: CCPC邀请赛铜牌，JSCPC银牌
       - title: 王大儒
         details: ICPC铜牌
+      - title: 张紫轩
+        details: ICPC邀请赛铜牌
+      - title: 钱子恒
+        details: ICPC邀请赛铜牌
+      - title: 李昱泓
+        details: ICPC邀请赛铜牌  
 
   - header: 2022级队员
     description: 这里是2022级HHUACM队员
