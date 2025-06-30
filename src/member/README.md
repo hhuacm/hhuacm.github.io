@@ -40,6 +40,12 @@ highlights:
         details: JSCPC银牌
       - title: 顾奕诚
         details: JSCPC银牌
+      - title: 马王丰
+        details: CCPC邀请赛银牌
+      - title: 赵俊儒
+        details: CCPC邀请赛银牌
+      - title: 金泽楷
+        details: CCPC邀请赛银牌
 
   - header: 2023级队员
     description: 这里是2023级HHUACM队员
@@ -71,7 +77,13 @@ highlights:
       - title: 钱子恒
         details: ICPC邀请赛铜牌
       - title: 李昱泓
-        details: ICPC邀请赛铜牌  
+        details: ICPC邀请赛铜牌
+      - title: 肖爱伦
+        details: CCPC邀请赛银牌
+      - title: 林煜斌
+        details: CCPC邀请赛银牌
+      - title: 罗誉
+        details: CCPC邀请赛银牌
 
   - header: 2022级队员
     description: 这里是2022级HHUACM队员
